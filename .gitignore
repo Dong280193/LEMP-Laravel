@@ -1,0 +1,6 @@
+.env
+/.idea
+/.vscode
+docker/redis
+docker/db/data
+docker/nginx/logs
